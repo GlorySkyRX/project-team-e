@@ -20,11 +20,17 @@ void soapony()  //Unsure whether can print with printf or not (by @yuchitoto)
   printf("始めまして、私の名前はSoa。\nhajime mashite watashi no namae ha Soa。\n");
 }
 
+void ruby()
+{
+  printf("Yo, I am ruby.\n");
+}
+
 int main()
 {
   tom0034();
   wing0114();
   yuchitoto();
   soapony();
+  ruby();
   return 0;
 }
