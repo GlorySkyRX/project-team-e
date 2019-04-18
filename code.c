@@ -17,7 +17,7 @@ void yuchitoto()
   printf("Hallo, Ich heiße Toto.\n");
 }
 
-void soapony()  //Unsure whether can print with printf or not (by @yuchitoto)
+void soapony()
 {
   printf("始めまして、私の名前はSoa。\nhajime mashite watashi no namae ha Soa。\n");
 }

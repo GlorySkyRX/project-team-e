@@ -24,14 +24,21 @@ void yuchitoto()
   printf("Hallo, Ich heiße Toto.\n");
 }
 
-void soapony()  //Unsure whether can print with printf or not (by @yuchitoto)
+void soapony()
 {
   printf("始めまして、私の名前はSoa。\nhajime mashite watashi no namae ha Soa。\n");
 }
 
+
 void pohchaichon()
 {
   printf("Hello everyone!, I am Poh.\n");
+}
+
+void ruby()
+{
+  printf("Yo, I am ruby.\n");
+
 }
 
 int main()
@@ -41,6 +48,7 @@ int main()
   yuchitoto();
   soapony();
   pohchaichon();
+  ruby();
   return 0;
 }
 ```
