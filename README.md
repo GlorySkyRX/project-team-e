@@ -41,6 +41,11 @@ void ruby()
 
 }
 
+void liwaiyip()
+{
+  printf("how to do task 3 ar  \n");
+}
+
 int main()
 {
   tom0034();
@@ -49,6 +54,7 @@ int main()
   soapony();
   pohchaichon();
   ruby();
+  liwaiyip();
   return 0;
 }
 ```
