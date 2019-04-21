@@ -38,6 +38,11 @@ void ianpan()
   printf("Hi, this is Ian Y.E. Pan");
 }
 
+void prescott()
+{
+  printf("HI! I am LAI Jian Zhong.\n");
+}
+
 int main()
 {
   tom0034();
