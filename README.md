@@ -44,9 +44,7 @@ void ruby()
 void Prescott()
 {
   printf("HI! I am LAI Jian Zhong.\n");
-
 }
-
 int main()
 {
   tom0034();
