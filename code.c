@@ -31,7 +31,11 @@ void pohchaichon()
 void ruby()
 {
   printf("Yo, I am ruby.\n");
+}
 
+void ianpan()
+{
+  printf("Hi, this is Ian Y.E. Pan");
 }
 
 int main()
