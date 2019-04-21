@@ -9,6 +9,8 @@ This repo is building a page in [this page](https://csci3250-2019.github.io/proj
 #include <stdlib.h>
 #include <uchar.h>
 
+#define BORING 1
+
 void tom0034()
 {
   printf("Hi i am Thomas!\n");
@@ -41,6 +43,14 @@ void ruby()
 
 }
 
+void dorislolam()
+{
+  if (BORING == 1)
+    printf("Help, this is boring.\n");
+  else
+    printf("Oh, this is so fun.\n");
+}
+
 int main()
 {
   tom0034();
@@ -49,8 +59,10 @@ int main()
   soapony();
   pohchaichon();
   ruby();
+  dorislolam();
   return 0;
 }
+
 ```
 [![Build Status](https://travis-ci.org/csci3250-2019/project-team-e.svg?branch=master)](https://travis-ci.org/csci3250-2019/project-team-e)
 
