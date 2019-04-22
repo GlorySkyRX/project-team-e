@@ -40,6 +40,11 @@ void ianpan()
   printf("Hi, this is Ian Y.E. Pan");
 }
 
+void prescott()
+{
+  printf("HI! I am LAI Jian Zhong.\n");
+}
+
 void dorislolam()
 {
   if (BORING == 1)
