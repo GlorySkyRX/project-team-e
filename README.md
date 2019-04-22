@@ -43,7 +43,7 @@ void ruby()
 
 }
 
-void Prescott()
+void prescott()
 {
   printf("HI! I am LAI Jian Zhong.\n");
 }
@@ -56,9 +56,15 @@ void dorislolam()
     printf("Oh, this is so fun.\n");
 }
 
+ unitSphere-patch-2
 void Rustam()
 {
 printf("Hi! I am Rustam.\n");
+=======
+void eric()
+{
+  printf("Hi, I am Yifan Zhang.\n");
+ master
 }
 
 int main()
@@ -69,8 +75,13 @@ int main()
   soapony();
   pohchaichon();
   ruby();
+  prescott();
   dorislolam();
+ unitSphere-patch-2
   Rustam();
+=======
+  eric();
+ master
   return 0;
 }
 
@@ -88,6 +99,10 @@ int main()
 {% include_relative _stu/1155115790.md %}
 {% include_relative _stu/1155095945.md %}
 {% include_relative _stu/1155100337.md %}
+ unitSphere-patch-2
 {% include_relative _stu/1155102622.md %}
+=======
+{% include_relative _stu/1155107762.md %}
+ master
 
 {{site.time}}
