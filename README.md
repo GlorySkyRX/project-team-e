@@ -64,6 +64,7 @@ int main()
   soapony();
   pohchaichon();
   ruby();
+  Prescott();
   dorislolam();
   return 0;
 }
