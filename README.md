@@ -9,22 +9,56 @@ This repo is building a page in [this page](https://csci3250-2019.github.io/proj
 #include <stdlib.h>
 #include <uchar.h>
 
+#define BORING 1
+
 void tom0034()
 {
   printf("Hi i am Thomas!\n");
 }
-void wing0114(){
+
+void wing0114()
+{
   printf("Hello, I am Wingki!\n");
 }
 
 void yuchitoto()
 {
-  printf("Hallo, Ich heisse Toto.\n");
+  printf("Hallo, Ich heiße Toto.\n");
 }
 
 void soapony()
 {
   printf("始めまして、私の名前はSoa。\nhajime mashite watashi no namae ha Soa。\n");
+}
+
+
+void pohchaichon()
+{
+  printf("Hello everyone!, I am Poh.\n");
+}
+
+void ruby()
+{
+  printf("Yo, I am ruby.\n");
+
+}
+
+void Prescott()
+{
+  printf("HI! I am LAI Jian Zhong.\n");
+}
+
+void dorislolam()
+{
+  if (BORING == 1)
+    printf("Help, this is boring.\n");
+  else
+    printf("Oh, this is so fun.\n");
+}
+
+void eric()
+{
+  printf("Hi, I am Yifan Zhang.\n");
 }
 
 int main()
@@ -33,8 +67,13 @@ int main()
   wing0114();
   yuchitoto();
   soapony();
+  pohchaichon();
+  ruby();
+  dorislolam();
+  eric();
   return 0;
 }
+
 ```
 [![Build Status](https://travis-ci.org/csci3250-2019/project-team-e.svg?branch=master)](https://travis-ci.org/csci3250-2019/project-team-e)
 
@@ -44,5 +83,12 @@ int main()
 {% include_relative _stu/1155110447.md %}
 {% include_relative _stu/1155104476.md %}
 {% include_relative _stu/1155108869.md %}
+{% include_relative _stu/1155096513.md %}
+{% include_relative _stu/1155110849.md %}
+{% include_relative _stu/1155115790.md %}
+{% include_relative _stu/1155095945.md %}
+{% include_relative _stu/1155100337.md %}
+{% include_relative _stu/1155107762.md %}
+{% include_relative _stu/1155109143.md %}
 
 {{site.time}}
