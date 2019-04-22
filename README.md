@@ -61,6 +61,11 @@ void eric()
   printf("Hi, I am Yifan Zhang.\n");
 }
 
+void ian()
+{
+  printf("Hi, this is Ian Y.E. Pan.\n");
+}
+
 int main()
 {
   tom0034();
@@ -72,6 +77,7 @@ int main()
   prescott();
   dorislolam();
   eric();
+  ian();
   return 0;
 }
 
