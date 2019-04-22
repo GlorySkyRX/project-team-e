@@ -48,6 +48,11 @@ void Prescott()
   printf("HI! I am LAI Jian Zhong.\n");
 }
 
+void Rustam()
+{
+print("Hi! I am Rustam");
+}
+
 void dorislolam()
 {
   if (BORING == 1)
