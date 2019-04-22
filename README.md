@@ -43,6 +43,11 @@ void ruby()
 
 }
 
+void Prescott()
+{
+  printf("HI! I am LAI Jian Zhong.\n");
+}
+
 void dorislolam()
 {
   if (BORING == 1)
