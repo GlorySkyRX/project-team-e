@@ -61,13 +61,6 @@ void dorislolam()
   printf("Oh, this is so fun.\n");
 }
 
-
-void Rustam()
-{
-  printf("Hi, I am Rustam.\n");
-}
-
-
 void Rustam()
 {
   printf("Hi, I am Rustam.\n");
