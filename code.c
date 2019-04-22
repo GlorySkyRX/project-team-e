@@ -53,6 +53,11 @@ void dorislolam()
     printf("Oh, this is so fun.\n");
 }
 
+void Rustam()
+{
+printf("Hi, I am Rustam.\n");
+}
+
 int main()
 {
   tom0034();
@@ -62,5 +67,6 @@ int main()
   pohchaichon();
   ruby();
   dorislolam();
+  Rustam();
   return 0;
 }
