@@ -71,6 +71,11 @@ void eric()
   printf("Hi, I am Yifan Zhang.\n");
 }
 
+void kennydc822()
+{
+  printf("Hi, I am Tsang Ka Hung, Kenny.\n");
+}
+
 int main()
 {
   tom0034();
@@ -80,6 +85,7 @@ int main()
   pohchaichon();
   ruby();
   dorislolam();
+  kennydc822();
   Rustam();
   eric();
   return 0;
@@ -101,5 +107,6 @@ int main()
 {% include_relative _stu/1155102622.md %}
 {% include_relative _stu/1155107762.md %}
 {% include_relative _stu/1155109143.md %}
+{% include_relative _stu/1155112415.md %}
 
 {{site.time}}
