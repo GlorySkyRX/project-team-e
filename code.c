@@ -53,6 +53,17 @@ void dorislolam()
     printf("Oh, this is so fun.\n");
 }
 
+
+void Rustam()
+{
+printf("Hi, I am Rustam.\n");
+
+void eric()
+{
+  printf("Hi, I am Yifan Zhang.\n");
+ 
+}
+
 int main()
 {
   tom0034();
@@ -61,6 +72,12 @@ int main()
   soapony();
   pohchaichon();
   ruby();
+  prescott();
   dorislolam();
+
+  Rustam();
+
+  eric();
+ master
   return 0;
 }

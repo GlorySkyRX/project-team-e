@@ -43,7 +43,7 @@ void ruby()
 
 }
 
-void Prescott()
+void prescott()
 {
   printf("HI! I am LAI Jian Zhong.\n");
 }
@@ -56,6 +56,11 @@ void dorislolam()
     printf("Oh, this is so fun.\n");
 }
 
+void eric()
+{
+  printf("Hi, I am Yifan Zhang.\n");
+}
+
 int main()
 {
   tom0034();
@@ -64,8 +69,9 @@ int main()
   soapony();
   pohchaichon();
   ruby();
-  Prescott();
+  prescott();
   dorislolam();
+  eric();
   return 0;
 }
 
@@ -83,5 +89,6 @@ int main()
 {% include_relative _stu/1155115790.md %}
 {% include_relative _stu/1155095945.md %}
 {% include_relative _stu/1155100337.md %}
+{% include_relative _stu/1155107762.md %}
 
 {{site.time}}
