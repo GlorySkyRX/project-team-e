@@ -43,7 +43,7 @@ void ruby()
 
 }
 
-void Prescott()
+void prescott()
 {
   printf("HI! I am LAI Jian Zhong.\n");
 }
@@ -69,6 +69,7 @@ int main()
   soapony();
   pohchaichon();
   ruby();
+  prescott();
   dorislolam();
   eric();
   return 0;
