@@ -65,6 +65,7 @@ int main()
   pohchaichon();
   ruby();
   dorislolam();
+  Rustam();
   return 0;
 }
 
@@ -82,5 +83,7 @@ int main()
 {% include_relative _stu/1155115790.md %}
 {% include_relative _stu/1155095945.md %}
 {% include_relative _stu/1155100337.md %}
+{% include_relative _stu/1155102622.md %}
+
 
 {{site.time}}
