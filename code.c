@@ -2,6 +2,8 @@
 #include <stdlib.h>
 #include <uchar.h>
 
+#define BORING 1
+
 void tom0034()
 {
   printf("Hi i am Thomas!\n");
@@ -38,6 +40,14 @@ void ianpan()
   printf("Hi, this is Ian Y.E. Pan");
 }
 
+void dorislolam()
+{
+  if (BORING == 1)
+    printf("Help, this is boring.\n");
+  else
+    printf("Oh, this is so fun.\n");
+}
+
 int main()
 {
   tom0034();
@@ -46,5 +56,6 @@ int main()
   soapony();
   pohchaichon();
   ruby();
+  dorislolam();
   return 0;
 }
