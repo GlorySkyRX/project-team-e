@@ -5,6 +5,7 @@ This repo is building a page in [this page](https://csci3250-2019.github.io/proj
 
 ## Code ##
 ```c
+
 #include <stdio.h>
 #include <stdlib.h>
 #include <uchar.h>
@@ -40,10 +41,14 @@ void pohchaichon()
 void ruby()
 {
   printf("Yo, I am ruby.\n");
-
 }
 
-void Prescott()
+void ianpan()
+{
+  printf("Hi, this is Ian Y.E. Pan");
+}
+
+void prescott()
 {
   printf("HI! I am LAI Jian Zhong.\n");
 }
@@ -51,9 +56,19 @@ void Prescott()
 void dorislolam()
 {
   if (BORING == 1)
-    printf("Help, this is boring.\n");
+  printf("Help, this is boring.\n");
   else
-    printf("Oh, this is so fun.\n");
+  printf("Oh, this is so fun.\n");
+}
+
+void Rustam()
+{
+  printf("Hi, I am Rustam.\n");
+}
+
+void eric()
+{
+  printf("Hi, I am Yifan Zhang.\n");
 }
 
 int main()
@@ -66,9 +81,9 @@ int main()
   ruby();
   dorislolam();
   Rustam();
+  eric();
   return 0;
 }
-
 ```
 [![Build Status](https://travis-ci.org/csci3250-2019/project-team-e.svg?branch=master)](https://travis-ci.org/csci3250-2019/project-team-e)
 
@@ -84,6 +99,7 @@ int main()
 {% include_relative _stu/1155095945.md %}
 {% include_relative _stu/1155100337.md %}
 {% include_relative _stu/1155102622.md %}
-
+{% include_relative _stu/1155107762.md %}
+{% include_relative _stu/1155109143.md %}
 
 {{site.time}}
