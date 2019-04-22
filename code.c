@@ -72,6 +72,7 @@ int main()
   soapony();
   pohchaichon();
   ruby();
+  prescott();
   dorislolam();
 
   Rustam();
