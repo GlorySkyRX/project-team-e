@@ -50,7 +50,7 @@ void Prescott()
 
 void Rustam()
 {
-print("Hi! I am Rustam");
+printf("Hi! I am Rustam.\n");
 }
 
 void dorislolam()
