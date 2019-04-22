@@ -5,6 +5,7 @@ This repo is building a page in [this page](https://csci3250-2019.github.io/proj
 
 ## Code ##
 ```c
+
 #include <stdio.h>
 #include <stdlib.h>
 #include <uchar.h>
@@ -40,7 +41,11 @@ void pohchaichon()
 void ruby()
 {
   printf("Yo, I am ruby.\n");
+}
 
+void ianpan()
+{
+  printf("Hi, this is Ian Y.E. Pan");
 }
 
 void prescott()
@@ -51,9 +56,14 @@ void prescott()
 void dorislolam()
 {
   if (BORING == 1)
-    printf("Help, this is boring.\n");
+  printf("Help, this is boring.\n");
   else
-    printf("Oh, this is so fun.\n");
+  printf("Oh, this is so fun.\n");
+}
+
+void Rustam()
+{
+  printf("Hi, I am Rustam.\n");
 }
 
 void eric()
@@ -69,12 +79,13 @@ int main()
   soapony();
   pohchaichon();
   ruby();
-  prescott();
   dorislolam();
+
+  Rustam();
+
   eric();
   return 0;
 }
-
 ```
 [![Build Status](https://travis-ci.org/csci3250-2019/project-team-e.svg?branch=master)](https://travis-ci.org/csci3250-2019/project-team-e)
 
@@ -90,5 +101,6 @@ int main()
 {% include_relative _stu/1155095945.md %}
 {% include_relative _stu/1155100337.md %}
 {% include_relative _stu/1155107762.md %}
+{% include_relative _stu/1155109143.md %}
 
 {{site.time}}

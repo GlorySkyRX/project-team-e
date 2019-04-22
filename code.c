@@ -48,20 +48,19 @@ void prescott()
 void dorislolam()
 {
   if (BORING == 1)
-    printf("Help, this is boring.\n");
+  printf("Help, this is boring.\n");
   else
-    printf("Oh, this is so fun.\n");
+  printf("Oh, this is so fun.\n");
 }
-
 
 void Rustam()
 {
-printf("Hi, I am Rustam.\n");
+  printf("Hi, I am Rustam.\n");
+}
 
 void eric()
 {
   printf("Hi, I am Yifan Zhang.\n");
- 
 }
 
 int main()
@@ -78,6 +77,5 @@ int main()
   Rustam();
 
   eric();
- master
   return 0;
 }
