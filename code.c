@@ -68,6 +68,11 @@ void kennydc822()
   printf("Hi, I am Tsang Ka Hung, Kenny.\n");
 }
 
+void kayuior()
+{
+  printf("Hi, I am Ka Yui Or. \n");   
+}
+
 int main()
 {
   tom0034();
@@ -83,5 +88,6 @@ int main()
   Rustam();
 
   eric();
+  kayuior();
   return 0;
 }
