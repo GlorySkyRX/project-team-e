@@ -80,6 +80,10 @@ void wongloklam456(){
   printf("Hi I am Lawrence Wong LOL.\n");
 }
 
+void kayuior(){
+  printf("Hi I am Ka Yui Or !!! \n"); 
+}
+
 int main()
 {
   tom0034();
@@ -92,7 +96,7 @@ int main()
   dorislolam();
   kennydc822();
   wongloklam456();
-
+  kayuior();
   Rustam();
 
   eric();
@@ -117,5 +121,7 @@ int main()
 {% include_relative _stu/1155109143.md %}
 {% include_relative _stu/1155112415.md %}
 {% include_relative _stu/1155110688.md %}
+{% include_relative _stu/1155109111.md %}
+
 
 {{site.time}}
