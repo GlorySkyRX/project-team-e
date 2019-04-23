@@ -68,6 +68,10 @@ void kennydc822()
   printf("Hi, I am Tsang Ka Hung, Kenny.\n");
 }
 
+void wongloklam456(){
+  printf("Hi I am Lawrence Wong LOL.\n");
+}
+
 int main()
 {
   tom0034();
@@ -79,6 +83,7 @@ int main()
   prescott();
   dorislolam();
   kennydc822();
+  wongloklam456();
 
   Rustam();
 
