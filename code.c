@@ -63,6 +63,11 @@ void eric()
   printf("Hi, I am Yifan Zhang.\n");
 }
 
+void kennydc822()
+{
+  printf("Hi, I am Tsang Ka Hung, Kenny.\n");
+}
+
 int main()
 {
   tom0034();
@@ -73,6 +78,7 @@ int main()
   ruby();
   prescott();
   dorislolam();
+  kennydc822();
 
   Rustam();
 
