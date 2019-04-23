@@ -84,6 +84,10 @@ void kayuior(){
   printf("Hi I am Ka Yui Or !!! \n"); 
 }
 
+void alwin(){
+  printf("Hi I am Chan Yik Ching, Alwin.\n"); 
+}
+
 int main()
 {
   tom0034();
@@ -97,6 +101,7 @@ int main()
   kennydc822();
   wongloklam456();
   kayuior();
+  alwin();
   Rustam();
 
   eric();
@@ -122,6 +127,7 @@ int main()
 {% include_relative _stu/1155112415.md %}
 {% include_relative _stu/1155110688.md %}
 {% include_relative _stu/1155109111.md %}
+{% include_relative _stu/1155095946.md %}
 
 
 {{site.time}}
